@@ -1,6 +1,5 @@
 CareerBuddyApp
 CareerBuddyApp is an Android application designed to assist students in identifying the best career paths based on their academic performance and personal interests. The app leverages machine learning models served via a Flask API to provide career predictions tailored to each student's input. This project integrates Android development with Python Flask for real-time predictions, making it a comprehensive solution for career guidance.
-
 Features
 Career Prediction: Students provide their academic marks and interests, and the app predicts the best career options based on those inputs.
 Machine Learning Backend: The Flask API processes student data and generates predictions using a machine learning model.

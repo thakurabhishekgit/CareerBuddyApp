@@ -15,7 +15,6 @@ API Documentation
 License
 Project Structure
 The project is divided into two main components:
-
 1. CareerPredictApp (Android App)
 app.tsx: This is the main entry point of the Android app. It contains the logic for gathering student inputs (marks and interests) and communicating with the Flask API for predictions.
 The Android app is built using React Native and provides a smooth user interface for student interactions.
